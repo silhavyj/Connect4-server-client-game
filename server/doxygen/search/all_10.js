@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['receivedping_159',['receivedPing',['../class_client.html#a9ed7e24be4b427c0d9ef6d242b621334',1,'Client']]],
+  ['reconnectingclients_160',['reconnectingClients',['../class_server.html#adc4de595d70bdd776c28b19f506ecd3f',1,'Server']]],
+  ['reconnectingclientsmtx_161',['reconnectingClientsMtx',['../class_server.html#a92758db650283df529f812360b4ec2d3',1,'Server']]],
+  ['recv_5frq_162',['RECV_RQ',['../class_client.html#a00bb911d105d92e1ba0479facdc60c2aa66774be39d17e39e7368e038d23d62ce',1,'Client']]],
+  ['recvnbytes_163',['recvNBytes',['../class_server.html#a26c93be36f91a7e8e4a297b00a67c84c',1,'Server']]],
+  ['red_164',['RED',['../class_logger.html#adf30d5405249830a6892a9b5d6000fce',1,'Logger']]],
+  ['removebothplayersfromthereconnectinglist_165',['removeBothPlayersFromTheReconnectingList',['../class_server.html#a647404df04bf35ace56b2e9dd8e53965',1,'Server']]],
+  ['removeclient_166',['removeClient',['../class_server.html#a2ecc3ef8605eb85b10d6e99fe5c1d60a',1,'Server']]],
+  ['removeclientbynick_167',['removeClientByNick',['../class_server.html#a1c0f82d19a4ff90e4533894f8cd5b3b1',1,'Server']]],
+  ['removeclientbyreference_168',['removeClientByReference',['../class_server.html#aefede44ad7e8a2ba4d22ae8a40560496',1,'Server']]],
+  ['removeplayerfromgameroom_169',['removePlayerFromGameRoom',['../class_server.html#a10c5c6b143aa40ca968f6fcb24ddd076',1,'Server']]],
+  ['removeplayerfromreconnectinglist_170',['removePlayerFromReconnectingList',['../class_server.html#acd85b7ff3ef57932eb349353e721e8fc',1,'Server']]],
+  ['reset_171',['RESET',['../class_logger.html#a1e346eaf6ff12ac7707b99bef0163d95',1,'Logger']]],
+  ['rows_172',['rows',['../class_connect4.html#a745126c1cac6b37eadca0fc5b81eeac9',1,'Connect4::rows()'],['../class_connect4.html#ad0f6ddc32386014ec9c1edabbe48e092',1,'Connect4::ROWS()']]],
+  ['run_173',['run',['../class_server.html#abb27d30b40a94326e3fd629d3b30b7d5',1,'Server']]],
+  ['runthread_174',['runThread',['../class_connect4.html#a0e1da741006793d6c284ef06069e005f',1,'Connect4']]],
+  ['runthreadmtx_175',['runThreadMtx',['../class_connect4.html#a1bdc207e2aae7b7f9a15896e157c2d64',1,'Connect4']]]
+];

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project default="jar" name="UPS_A17B0362P_silhavyj_client">
+
+	<!-- variables -->
+	<property name="src_folder" location="src" />
+	<property name="bin_folder" location="bin" />
+	<property name="target" location="client.jar" />
+	
+	<!-- creates an empty bin directory -->
+	<target name="init">
+		<mkdir dir="${bin_folder}" /> 
+	</target>
+	
+	<!-- compiles the source codes using javac -->
+	<target name="compile" depends="init">
+		<javac includeantruntime="false" srcdir="${src_folder}" destdir="${bin_folder}" />
+	</target>
+	
+	<!-- creates a final jar file -->
+	<target name="jar" depends="compile">
+		<jar destfile="${target}" basedir="${bin_folder}">
+			<manifest>
+				<attribute name="Main-Class" value="Main"/>
+			</manifest>
+		</jar>
+	</target>
+	
+	<!-- cleans everything up -->
+	<target name="clean">
+		<delete dir="${bin_folder}" />
+        <delete file="${target}" /> 
+	</target>
+</project>

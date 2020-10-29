@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['getcurrentdatetime_274',['getCurrentDateTime',['../class_logger.html#afa6fae2318225a087949a2e2f408144c',1,'Logger']]],
+  ['getcurrentstateofgameforrecovery_275',['getCurrentStateOfGameForRecovery',['../class_connect4.html#a53e0a51bd17bbb5be89e17cfee57d965',1,'Connect4']]],
+  ['getgamerequestsender_276',['getGameRequestSender',['../class_server.html#a7b8907baf873d61b379caf68945d6dde',1,'Server']]],
+  ['gethelp_277',['getHelp',['../class_server.html#a0e023def2f00e166619bfc06586d0797',1,'Server']]],
+  ['getinstance_278',['getInstance',['../class_logger.html#afec28ae6d7bdf8f6a0734cb20756de10',1,'Logger']]],
+  ['getmaxnumberofclients_279',['getMaxNumberOfClients',['../class_input_shell.html#a5fff72016877900fef4c807c15f9be05',1,'InputShell']]],
+  ['getnick_280',['getNick',['../class_client.html#af943634269116c127a5d9fd0fbfd7351',1,'Client']]],
+  ['getnicksallclients_281',['getNicksAllClients',['../class_server.html#ae2e77026a14f98e09f7857579bc9acca',1,'Server']]],
+  ['getnum_282',['getNum',['../class_input_shell.html#a6ff7ff4cd40b075e76da1a1643d6f309',1,'InputShell']]],
+  ['getplayersopponent_283',['getPlayersOpponent',['../class_server.html#a732674a1436fe8bc04e533a3c2afde92',1,'Server']]],
+  ['getport_284',['getPort',['../class_input_shell.html#a2f1a8915e0091f4b7142fd57dc41eccb',1,'InputShell']]],
+  ['getreceivedping_285',['getReceivedPing',['../class_client.html#a2d404c6caf60d507cb5f8ec00225dcd1',1,'Client']]],
+  ['getsocket_286',['getSocket',['../class_client.html#acbc913292e650ae4eea15723addfb22c',1,'Client']]],
+  ['getstate_287',['getState',['../class_client.html#a6024fdadb9db8c2674bb2df3e48de3d0',1,'Client']]],
+  ['getstateofclient_288',['getStateOfClient',['../class_server.html#a0db4139d6b94f5635b71a3631510befb',1,'Server']]],
+  ['gettypeofmessage_289',['getTypeOfMessage',['../class_server.html#ab980150dba24b425fc2c05353d2434e7',1,'Server']]],
+  ['getwinningtiles_290',['getWinningTiles',['../class_connect4.html#a6164e5363405b877bdee2414a8ea4579',1,'Connect4']]]
+];

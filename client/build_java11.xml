@@ -34,13 +34,13 @@
 	<!-- cleans everything up -->
 	<target name="clean">
 		<delete dir="${bin_folder}" />
-        <delete file="${target}" /> 
+        	<delete file="${target}" /> 
 	</target>
 
 	<!-- runs the application -->
 	<target name="run" depends="jar">
 		<exec executable="java">
-			<arg value="-jar"/>
+		<arg value="-jar"/>
     		<arg line="${java11_args}"/>
     		<arg value="${target}"/>
   		</exec>

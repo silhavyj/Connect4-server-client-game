@@ -40,9 +40,9 @@
 	<!-- runs the application -->
 	<target name="run" depends="jar">
 		<exec executable="java">
-		<arg value="-jar"/>
-    		<arg line="${java11_args}"/>
-    		<arg value="${target}"/>
+			<arg value="-jar"/>
+	    		<arg line="${java11_args}"/>
+    			<arg value="${target}"/>
   		</exec>
 	</target>
 </project>
